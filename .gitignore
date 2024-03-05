@@ -1,17 +1,10 @@
 .gradle
-
 bin
-
-
 Libs
-
 output
-
 !output/.gitkeep
 build
-
 .classpath
-
 .project
 /bin/
 /Libs/
