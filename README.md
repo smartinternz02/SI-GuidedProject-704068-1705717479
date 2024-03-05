@@ -12,34 +12,34 @@ Amazon is an American multinational technology company focusing on e-commerce, c
 
 To accomplish this, we have to complete all the activities listed below:
 
-1. Define problem/ Problem understanding
+i. Define problem/ Problem understanding
 
-i. Specify the business problem
+  1. Specify the business problem
 
-ii. Business impact 
+  2. Business impact 
 
-2. Test case Preparation
+ii. Test case Preparation
 
-i. Analyze requirements
+  1. Analyze requirements
 
-ii. Create the Scenario's and Collect the input data
+  2. Create the Scenario's and Collect the input data
 
-iii. Preparation of Test cases
+  3. Preparation of Test cases
 
-iv. Test data preparation (in the form of Validation Table) as per baseline document
+  4. Test data preparation (in the form of Validation Table) as per baseline document
 
-3. Script /Test case Execution under test suite and test suite collection level 
+iii. Script /Test case Execution under test suite and test suite collection level 
 
-4. Handling  and Validating buttons
+iv. Handling  and Validating buttons
 
-5. Test listeners
+v. Test listeners
 
-6. Build delivery
+vi. Build delivery
 
-* Integrating katalon to git and jenkins
+  1. Integrating katalon to git and jenkins
 
-7. Cross-browser testing using TestCloud
+vii. Cross-browser testing using TestCloud
 
-8. Generating and Analyzing report and Sending report through email
+viii. Generating and Analyzing report and Sending report through email
 
   
